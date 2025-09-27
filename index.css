@@ -1,8 +1,9 @@
 body{
     background-image: url(kepek/egyiptomihatter.jpg);
     min-height: 100vh;
-    margin: 0;
+    margin: 400px;
     font-family: 'Georgia', serif;
+    height: 0;
 }
 
 h1{
