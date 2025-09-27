@@ -1,3 +1,51 @@
 body{
     background-image: url(kepek/egyiptomihatter.jpg);
+    min-height: 100vh;
+    margin: 0;
+    font-family: 'Georgia', serif;
+}
+
+h1{
+    text-align: center;
+    color: #994d16;
+    letter-spacing: 0.3em;
+    font-size: 2.1em;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+h2{
+    text-align: center;
+    color: #ae6528;
+    font-size: 1.45em;
+    margin-top: 0.7em;
+    margin-bottom: 1.2em;
+    letter-spacing: 0.13em;
+    font-weight: bold;
+}
+
+p{
+    color: #463821;
+    line-height: 1.55;
+    font-size: 1.07em;
+    margin-bottom: 0.7em;
+    text-align: justify;
+}
+
+#nilus{
+    float: right;
+    margin-left: 20px;
+    border: 2px solid #a67d3d;
+    padding: 3px;
+    max-width: 250px;
+    background: #fffbea;
+}
+
+#karnak{
+    float: left;
+    margin-left: 20px;
+    border: 2px solid #a67d3d;
+    padding: 3px;
+    max-width: 250px;
+    background: #fffbea;
 }
